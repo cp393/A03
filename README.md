@@ -1,6 +1,18 @@
 # A03
 
 Part 1: Directions on Using Webstorm
+<ol>
+  <li>First, download both <b>Git</b> and Webstorm. In addition, create an account on <b>Github</b></li>
+  <li>After installing webstorm, click "Configure", then "Version Control", then "Git".</li>
+  <li>Here, enter the path to the git executable you downloaded, and then test the connection to make sure it works.</li>
+  <li>Log into Github on Webstorm by clicking "Configure", then "Version Control", then "Github". </li>
+  <li>You now have functionality between Git, Github, and Webstorm.</li>
+  <li>Create a new project in Webstorm. Choose a location to save it and give the project a name. This will be your local <b>repository.</b></li>
+  <li>You can create whatever files and make whatever changes you want. Then, click "Create git repository" in the VCS drop down menu in the top bar.</li>
+  <li>You can then <b>commit</b> changes you have made to your project, which saves them.
+    <li>Again from the top bar, click "Share Project on Github". This creates a <b>remote</b> repository on Github, and connects it to your local repository on your machine. You can then <b>push</b> the changes you have made, uploading them to your Github repository.</li>
+  <li>In conclusion, webstorm allows you to create and edit files, and has functionality with Git and Github. Git is a version control software that helps to track and manage changes to code, and Github is a website that hosts projects that use git. </li>
+  </ol>
 
 Part 2: Glossary
 <ul>
@@ -33,4 +45,6 @@ Reference List:
   <li>https://www.atlassian.com/git/tutorials/syncing/git-pull</li>
   <li>https://www.git-tower.com/learn/git/glossary/remote/</li>
   <li>https://www.geeksforgeeks.org/what-is-a-git-repository/</li>
+  <li>https://www.jetbrains.com/help/webstorm/github.html</li>
+  <li>ExtraInstallationInstructions-20200214.pdf</li>
 </ol>
