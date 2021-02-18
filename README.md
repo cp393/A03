@@ -15,7 +15,7 @@ Part 2: Glossary
   <li><b>Push</b> - Pushing in git allows you to upload your local repository content onto a remote repository, such as github. 
   <li><b>Pull</b> - Pulling in git allows you to download content from a remote repository such as github and immediately update the local repository on your machine to match that remote repository. 
   <li><b>Remote</b> - Remotes in git are common repositories that members of a group can use to exchange each of their respective changes. An example of a place where remote repositories are hosted is Github.
-  <li><b>Repository</b> - 
+  <li><b>Repository</b> - Repositories in git hold files for various different versions of a project. These files are uploaded by users and can be edited through further committing and pushing. Code in a repository can also be downloaded onto a user's local machine. 
 </ul>
 
 Reference List:
@@ -32,4 +32,5 @@ Reference List:
   <li>https://www.atlassian.com/git/tutorials/syncing/git-push</li>
   <li>https://www.atlassian.com/git/tutorials/syncing/git-pull</li>
   <li>https://www.git-tower.com/learn/git/glossary/remote/</li>
+  <li>https://www.geeksforgeeks.org/what-is-a-git-repository/</li>
 </ol>
